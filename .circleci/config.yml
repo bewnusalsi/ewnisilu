@@ -1,6 +1,4 @@
 
-  Aklipn:
-    d
       - image: cimg/node:14.19.3
     <<: &commonSteps
       steps:
