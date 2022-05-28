@@ -1,8 +1,6 @@
 
             name: abahi
-            command: sudo apt update -y
-        - run:
-            name: abiah
+            command: sudo 
             command: ls
         - run:
             name: abuah
