@@ -1,8 +1,5 @@
 
-            name: abahi
-            command: sudo 
-            command: ls
-        - run:
+            
             name: abuah
             command: unzip app.zip; chmod u+x *
         - run:
